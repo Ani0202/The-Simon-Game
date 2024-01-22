@@ -12,7 +12,7 @@
 
 ## Demo
 
-You can play the game live [here](link-to-live-demo).
+You can play the game live [here](https://ani0202.github.io/The-Simon-Game/).
 
 ### How to Play:
 
