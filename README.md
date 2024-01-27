@@ -16,7 +16,7 @@ You can play the game live [here](https://ani0202.github.io/The-Simon-Game/).
 
 ### How to Play:
 
-1. **Start the Game:** Press any key and embark on your memory voyage.
+1. **Start the Game:** Press the Start Button and embark on your memory voyage.
 2. **Observe & Remember:** Watch and listen as the game unveils a sequence of colored lights and corresponding sounds.
 3. **Repeat the Pattern:** Click the corresponding colored buttons in the correct order, mirroring the presented sequence.
 4. **Conquer the Challenge:** With each successful repetition, the sequence lengthens, demanding even greater focus.
@@ -33,7 +33,7 @@ You can play the game live [here](https://ani0202.github.io/The-Simon-Game/).
 
 * **Clone the Repository:** Fork the repository on GitHub or download the zip file from your project.
 * **Open the Game:** Launch the `index.html` file in your web browser.
-* **Embrace the Test:** Press any key and let the memory duel begin!
+* **Embrace the Test:** Press the Start Button and let the memory duel begin!
 
 ### Contributions & Feedback:
 
